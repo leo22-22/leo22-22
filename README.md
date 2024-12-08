@@ -1,7 +1,7 @@
 # 👨‍💻 **Leo - Desenvolvedor de Software** 🚀
 
 Bem-vindo ao meu perfil no GitHub!  
-Sou **Leo**, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, estou sempre buscando aprender novas habilidades e aplicar meu conhecimento em projetos desafiadores.
+Sou **Leo**, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação, estou sempre buscando aprender novas habilidades e aplicar meu conhecimento em projetos desafiadores.
 
 ---
 
