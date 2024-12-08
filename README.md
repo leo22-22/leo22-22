@@ -13,27 +13,27 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
 <p align="left">
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <span><b>C</b></span>
+    <span style="color:white; font-weight:bold;">C</span>
   </a>
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <span><b>Python</b></span>
+    <span style="color:white; font-weight:bold;">Python</span>
   </a>
   <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <span><b>JavaScript</b></span>
+    <span style="color:white; font-weight:bold;">JavaScript</span>
   </a>
   <a href="https://www.w3.org/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <span><b>HTML</b></span>
+    <span style="color:white; font-weight:bold;">HTML</span>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <span><b>CSS</b></span>
+    <span style="color:white; font-weight:bold;">CSS</span>
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
-    <span><b>SQL/MySQL</b></span>
+    <span style="color:white; font-weight:bold;">SQL/MySQL</span>
   </a>
 </p>
 
