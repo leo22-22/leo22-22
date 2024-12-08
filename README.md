@@ -60,9 +60,14 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
 ## 🌍 **Como me encontrar**
 
 📫 **Entre em contato comigo:**  
-- **Email**: [leonardoranuci17@gmail.com](mailto:leonardoranuci17@gmail.com)  
-- **LinkedIn**: [@leonardo-picolo-348683273](https://www.linkedin.com/in/leonardo-picolo-348683273/)
-
+<p align="left">
+  <a href="mailto:leonardoranuci17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-picolo-348683273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 ---
 
 **✨ *Vamos transformar ideias em realidade!* ✨**
