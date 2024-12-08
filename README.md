@@ -1,43 +1,69 @@
-# 🌟 Bem-vindo(a) ao GitHub do Leo! 🌟
+# 👨‍💻 **Leo - Desenvolvedor de Software** 🚀
 
-Olá! Sou **Leo**, desenvolvedor apaixonado por programação, tecnologia e a busca por soluções inovadoras! 🚀
+Bem-vindo ao meu perfil no GitHub!  
+Sou **Leo**, um desenvolvedor apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e frameworks, estou sempre buscando aprender novas habilidades e aplicar meu conhecimento em projetos desafiadores.
 
-🔭 Atualmente, estou me dedicando a projetos pessoais e explorando novas tecnologias para expandir minhas habilidades.  
+---
 
-💻 **Linguagens e Tecnologias que eu uso:**  
+## 🔧 **Tecnologias e Ferramentas**
 
+Aqui estão as linguagens e tecnologias com as quais trabalho:
+
+### **Linguagens de Programação**:
 <p align="left">
-  <a href="https://devdocs.io/c/" target="_blank" title="C">
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <span>C</span>
   </a>
-  <a href="https://www.python.org/" target="_blank" title="Python">
+  <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <span>Python</span>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+  <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <span>JavaScript</span>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+  <a href="https://www.w3.org/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <span>HTML</span>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    <span>CSS</span>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" title="SQL/MySQL">
+  <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
+    <span>SQL/MySQL</span>
+  </a>
+</p>
+
+### **Ferramentas & Frameworks**:
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <span>Git</span>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <span>Docker</span>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <span>Linux</span>
   </a>
 </p>
 
 ---
 
-## 🛠️ Sobre Mim
+## 🛠️ **Sobre Mim**
 
 📍 **Localização**: Presidente Venceslau - SP  
-🎯 **Objetivo**: Evoluir como estudante e profissional, e me aprofundar na área de tecnologia.  
-📖 **Curiosidades**: Sou fã de aprender coisas novas, estudar o que for necessário, ouvir feedbacks, e buscar crescer como profissional e pessoa todos os dias.  
+🎯 **Objetivo**: Evoluir como estudante e profissional e fazer parte profundamente da área de tecnologia.  
+📖 **Curiosidades**: Sou fã de aprender coisas novas, estudar tudo o que posso e crescer como profissional e pessoa todos os dias.
 
 ---
 
-## 📈 Minhas Estatísticas
+## 📈 **Minhas Estatísticas**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leo22-22&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" width="50%" />
@@ -47,19 +73,11 @@ Olá! Sou **Leo**, desenvolvedor apaixonado por programação, tecnologia e a bu
 
 ---
 
-## 🌍 Como me encontrar
+## 🌍 **Como me encontrar**
 
 📫 **Entre em contato comigo:**  
-<p align="left">
-  <a href="mailto:leonardoranuci17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-picolo-348683273/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-💡 **Dica:** Gostou dos meus projetos? Explore, deixe uma estrela ⭐ ou contribua!  
+- **Email**: [leonardoranuci17@gmail.com](mailto:leonardoranuci17@gmail.com)  
+- **LinkedIn**: [@leonardo-picolo-348683273](https://www.linkedin.com/in/leonardo-picolo-348683273/)
 
 ---
 
