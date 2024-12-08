@@ -13,43 +13,27 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
 <p align="left">
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <span>C</span>
+    <span><b>C</b></span>
   </a>
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <span>Python</span>
+    <span><b>Python</b></span>
   </a>
   <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <span>JavaScript</span>
+    <span><b>JavaScript</b></span>
   </a>
   <a href="https://www.w3.org/html/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <span>HTML</span>
+    <span><b>HTML</b></span>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <span>CSS</span>
+    <span><b>CSS</b></span>
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
-    <span>SQL/MySQL</span>
-  </a>
-</p>
-
-### **Ferramentas & Frameworks**:
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <span>Git</span>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <span>Docker</span>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <span>Linux</span>
+    <span><b>SQL/MySQL</b></span>
   </a>
 </p>
 
