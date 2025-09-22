@@ -9,7 +9,7 @@ Sou **Leo**, um desenvolvedor apaixonado por tecnologia e inovação. Com experi
 
 Aqui estão as linguagens e tecnologias com as quais trabalho:
 
-### **Linguagens de Programação**:
+### **Linguagens e Tecnologias**:
 <p align="left">
   <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -20,8 +20,17 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
   <a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -36,6 +45,7 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </a>
 </p>
+
 
 
 ---
