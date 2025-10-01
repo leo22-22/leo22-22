@@ -68,7 +68,7 @@ Aqui estão as linguagens e tecnologias com as quais trabalho:
 
 ---
 
-## 🌍 **Como me encontrar**
+## 🌍 **Vamos Conversar!**
 
 📫 **Entre em contato comigo:**  
 <p align="left">
